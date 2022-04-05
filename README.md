@@ -1,0 +1,2 @@
+# SpringFrameworkAnnotatedVersion
+对SpringFramework5.2.0源码做了一个细致的注释（几乎包含了所有重要类），以及一些必要的功能测试案例，帮助大家快速理解Spring IOC和AOP底层的实现细节。
